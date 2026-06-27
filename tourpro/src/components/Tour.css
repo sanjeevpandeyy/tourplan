@@ -1,0 +1,19 @@
+.tour-container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 30px;
+  border: 4px dashed #6c63ff;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+}
